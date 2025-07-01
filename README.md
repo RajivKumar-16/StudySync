@@ -1,5 +1,5 @@
 # StudySync Project
-Author : RAJIV KUMAR GOND - with github ID : RajivKumar-1618
+Author : RAJIV KUMAR GOND - with github ID : RajivKumar-16
 <br>
 This is just to learn things not an project.
 <br>
